@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1000px;
+    margin: 40px auto;
+    background-color: rgb(241, 241, 159);
+}
+
+.h1-text{
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
