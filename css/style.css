@@ -17,3 +17,15 @@
 .red{
     color: red;
 }
+
+.img-wrap{
+    width: 100%;
+}
+
+img{
+    width: 100%;
+}
+
+body{
+    background-color: rgb(173, 209, 173);
+}

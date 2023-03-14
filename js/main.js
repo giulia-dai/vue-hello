@@ -5,7 +5,9 @@ const { createApp } = Vue
 createApp({
   data() {
     return {
-      testo:'h1-text red'
+      testo: 'h1-text red',
+      imgSrc: './img/vue-logo.png',
     }
+
   }
 }).mount('#app')
